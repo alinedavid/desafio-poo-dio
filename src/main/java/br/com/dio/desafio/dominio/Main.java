@@ -1,3 +1,5 @@
+package br.com.dio.desafio.dominio;
+
 import br.com.dio.desafio.dominio.*;
 
 import java.awt.*;
